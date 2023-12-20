@@ -15,4 +15,4 @@ fields = {
     "age": 17
 }
 
-print(males.count(cond=q.country == 'Brazil'))
+print(males.count(cond=q.country == 'Germany'))
